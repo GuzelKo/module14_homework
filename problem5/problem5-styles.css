@@ -1,0 +1,15 @@
+body {
+	font-size: 14px;
+}
+
+#input {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#button {
+	margin-bottom: 20px;
+	padding: 10px;
+	background-color: yellow;
+	cursor: pointer;
+}
